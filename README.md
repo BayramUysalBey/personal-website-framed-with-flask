@@ -21,44 +21,44 @@ This website is built with Flask and includes the following features:
 
 ## 🚀 Run Locally
 
-1.  Make sure you have Python installed.
-2.  Clone the repository:
+1. Make sure you have Python installed.
+2. Clone the repository: 
 
-    ```bash
-    git clone [https://github.com/BayramUysalBey/personal-website-framed-with-flask-v2.git](https://github.com/BayramUysalBey/personal-website-framed-with-flask-v2.git)
-    ```
-3.  Navigate to the project directory:
+```bash 
+git clone https://github.com/BayramUysalBey/personal-website-framed-with-flask-v2.git 
+```
+3. Navigate to the project directory: 
 
-    ```bash
-    cd personal-website-framed-with-flask-v2
-    ```
-4.  Create a virtual environment:
+```bash 
+cd personal-website-framed-with-flask-v2 
+```
+4. Create a virtual environment: 
 
-    ```bash
-    python -m venv venv
-    ```
-5.  Activate the virtual environment:
+```bash 
+python -m venv venv 
+```
+5. Activate the virtual environment: 
 
-    * On Windows:
+* On Windows: 
 
-        ```bash
-        venv\Scripts\activate
-        ```
-    * On macOS and Linux:
+```bash 
+venv\Scripts\activate 
+``` 
+* On macOS and Linux: 
 
-        ```bash
-        source venv/bin/activate
-        ```
-6.  Install the dependencies:
+```bash 
+source venv/bin/activate 
+```
+6. Install the Dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-7.  Run the Flask app:
+```bash
+pip install -r requirements.txt
+```
+7. Run the Flask app:
 
-    ```bash
-    flask run
-    ```
+```bash
+flask run
+```
 
 ## Contributing
 
