@@ -18,6 +18,11 @@ PROJECTS = [{
     "project name": "Personal Website V2",
     "project content": "Flask personal website project with database",
     "link": "https://github.com/BayramUysalBey/personal-website-framed-with-flask-v2"
+},
+	{
+    "project name": "Dementia Tracker V1",
+    "project content": "Flask dementia tracker project with database",
+    "link": "https://github.com/BayramUysalBey/dementia-tracker"
 }
 
 ]
